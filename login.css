@@ -1,0 +1,39 @@
+body{
+	background: url(https://images.unsplash.com/photo-1451153378752-16ef2b36ad05?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1494&q=80)center center / cover no-repeat;
+}
+html{
+	height: 100%
+}
+h1{
+	color: white;
+
+}
+.container{
+height: 100%;
+align-content: center;
+} 
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.7) !important;
+}
+
+.card-header h3{
+color: white;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #828589;
+color: black;
+border:0 !important;
+}
+.links{
+color: white;
+}
+.remember{
+	color: white;
+}
