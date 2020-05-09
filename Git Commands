@@ -1,0 +1,21 @@
+ To check the staging : git status
+ To add to the staging area : git add .
+ To commit : git commit -m "message"
+ To check logs : git log or git log --oneline 
+ To checkout : git checkout ID
+ To revert : git revert ID
+ To reset (danger ): git reset ID -hard
+ To check the branches : git branch -a 
+ To create branch : git branch name
+ To switch to the branch : git checkout branchname
+ To delete the branch : git branch -d branchname (with merge )
+ To delete the branch : git branch -D branchname (without merge )
+ To merge to master branch : git merge feature-1 (name of the branch)
+
+ Create a remote repo in Github 
+ copy the link
+
+ If error, check SSH
+
+ To push to the remote repo : git push link master 
+ 
